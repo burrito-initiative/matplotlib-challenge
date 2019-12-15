@@ -1,0 +1,8 @@
+SUMMARY Pymaceuticals: 
+============ 
+
+Tumor Response to Treatment: Assuming tumor growth continues to increase without treatment, or without effective treatment, Capomulin is the only observed drug to effectively decrease tumor size. 
+
+Metastatic Response to Treatment: While all observed drug treatments saw an increase of number Metastatic Sites, Capomulin proved to resulted in the leaset amount of sites. 
+
+Survival Rates: Capomulin, as expected from previous observations, resulted with the highest survival rate.
